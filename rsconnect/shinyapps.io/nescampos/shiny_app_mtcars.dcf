@@ -1,0 +1,9 @@
+name: shiny_app_mtcars
+account: nescampos
+server: shinyapps.io
+appId: 133247
+bundleId: 593918
+url: https://nescampos.shinyapps.io/shiny_app_mtcars/
+when: 1477179516.57389
+asMultiple: FALSE
+asStatic: FALSE
